@@ -33,7 +33,7 @@ function SideBarBlock() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default SideBarBlock
+export default SideBarBlock;

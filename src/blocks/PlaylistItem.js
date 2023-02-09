@@ -1,12 +1,11 @@
-function PlaylistItem() {
-  return (
+function PlaylistItem() { return (
     <div>
       <div className="playlist__item">
         <div className="playlist__track track">
           <div className="track__title">
             <div className="track__title-image">
               <svg className="track__title-svg" alt="music">
-                <use xlinkHref="img/icon/sprite.svg#icon-note" />
+ <use xlinkHref="img/icon/sprite.svg#icon-note" />
               </svg>
             </div>
             <div className="track__title-text">
